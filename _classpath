@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="Resources/sqlite-jdbc-3.7.15-M1.jar"/>
+	<classpathentry kind="lib" path="Resources/sqlite-jdbc-3.7.15-SNAPSHOT-2.jar"/>
+	<classpathentry kind="lib" path="Resources/sqlite-jdbc-3.7.15-SNAPSHOT-javadoc.jar"/>
+	<classpathentry kind="lib" path="Resources/sqlite-jdbc-3.7.15-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="Resources/sqlite-jdbc-3.7.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="Resources/sqlite-jdbc-3.8.11.2.jar"/>
+	<classpathentry kind="lib" path="Resources/sqlite-jdbc4-3.8.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="Resources/rs2xml.jar"/>
+	<classpathentry kind="lib" path="Resources"/>
+	<classpathentry kind="lib" path="Resources/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="Resources/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="Resources/jfreechart-1.0.19-demo.jar"/>
+	<classpathentry kind="lib" path="Resources/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="Resources/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="Resources/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="Resources/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="Resources/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="Resources/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="Resources/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="Resources/servlet.jar"/>
+	<classpathentry kind="lib" path="Resources/swtgraphics2d.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
